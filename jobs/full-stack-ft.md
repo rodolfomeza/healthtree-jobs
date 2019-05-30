@@ -1,4 +1,4 @@
-# Full Stack Developer - Full Time
+# Full Stack Developer - Lehi, Utah
 
 We’re looking for a Full Stack Developer to join our HealthTree development team!
 
