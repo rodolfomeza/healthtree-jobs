@@ -2,4 +2,4 @@
 
 # Jobs @ HealthTree.org
 
-#### [Full Stack Developer - Lehi, Utah](/blob/master/jobs/full-stack-ft.md)
+#### [Full Stack Developer - Lehi, Utah](/jobs/full-stack-ft.md)
