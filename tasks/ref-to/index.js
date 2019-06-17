@@ -273,7 +273,6 @@ class TreatmentOptions extends Component {
                   <table className="blue-dv1">
                     <tbody>
                       {childValues[type].map((treatment, key) => {
-                        let split_str = treatment.name.split("(");
                         let path = "javascript:void(0)";
                         if (treatment.link) {
                           path = "/treatment-info/" + treatment.id;
@@ -392,7 +391,6 @@ class TreatmentOptions extends Component {
                   <table className="blue-dv1">
                     <tbody>
                       {childValues[type].map((treatment, key) => {
-                        let split_str = treatment.name.split("(");
                         let path = "javascript:void(0)";
                         if (treatment.link) {
                           path = "/treatment-info/" + treatment.id;
